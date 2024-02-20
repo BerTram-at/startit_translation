@@ -1,8 +1,8 @@
 {
-  "last-update": "Last Updated",
+  "last-update": "Letzte Aktualisierung",
   "name": "Name",
-  "price": "Price",
-  "search": "Search",
+  "price": "Preis",
+  "search": "Suche",
   "symbol": "Symbol",
-  "stocks": "Stock market"
+  "stocks": "Aktienmarkt"
 }
